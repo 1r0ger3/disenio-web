@@ -67,4 +67,4 @@ git push origin feature/nueva-caracteristica
 - [HTML Semántico](https://developer.mozilla.org/es/docs/Glossary/Semantics)
 
 ## Contacto
-Para dudas sobre el desarrollo, contactar a [tu-email@ejemplo.com]
+Para dudas sobre el desarrollo, contactar a rogermunevar@gmail.com
