@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Estructura inicial del proyecto web"
+git branch -M main
+# Configurar repositorio remoto en GitHub
