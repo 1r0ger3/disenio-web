@@ -1,24 +1,28 @@
-Café Raíces - Sitio Web
-Descripción del Proyecto
-Sitio web corporativo para Café Raíces, una cafetería artesanal que celebra los orígenes y tradiciones del café.
-Características
+# Café Raíces 🌱☕
 
-Diseño responsivo
-Contenido semántico
-Optimizado para accesibilidad
-Experiencia multimedia
+## Descripción del Proyecto
+Sitio web corporativo de Café Raíces, una cafetería artesanal que celebra los orígenes y tradiciones del café colombiano. Nuestro objetivo es compartir la pasión por los granos de alta calidad y la experiencia única de cada taza.
 
-Tecnologías Utilizadas
+## Características Principales
+- 🎨 Diseño web responsivo y moderno
+- 🌐 Estructura HTML5 semántica
+- 💻 Estilos CSS3 con Flexbox y Grid
+- ♿ Optimizado para accesibilidad
+- 📱 Adaptable a múltiples dispositivos
 
-HTML5
-CSS3
-Git
-Herramientas de accesibilidad web
+## Tecnologías Utilizadas
+- HTML5
+- CSS3
+- Git
+- Herramientas de accesibilidad web
 
-Instalación
+## Instalación y Uso
+1. Clonar el repositorio
+2. Abrir `index.html` en un navegador web
+3. Explorar el sitio de Café Raíces
 
-Clonar repositorio
-Abrir index.html en navegador
+## Contribuciones
+¡Las contribuciones son bienvenidas! Por favor, consulta nuestra guía de contribución antes de enviar pull requests.
 
-Contribuciones
-Las contribuciones son bienvenidas. Por favor, leer guía de contribución.
+## Licencia
+Este proyecto está bajo la Licencia MIT.
